@@ -1,0 +1,10 @@
+section{
+    background-color: gray;
+    display: flex;
+}
+.des{
+    width:50%;
+}
+.im{
+    width:50%;
+}
